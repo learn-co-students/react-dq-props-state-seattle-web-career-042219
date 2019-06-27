@@ -8,6 +8,7 @@ import GlowingBaby from './assets/glowing-eyes.png'
 // is there a way we could associate eye color string values with images? 
 // perhaps so we could do something along the lines of `eyeColorMapper['blue'] and get back the right image?`
 
+//I DID THIS ON VADIM"S COMPUTER
 export default class BabyHog extends Component {
 
   constructor(props) {
