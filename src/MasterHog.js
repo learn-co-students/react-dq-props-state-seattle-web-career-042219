@@ -18,7 +18,6 @@ export default class MasterHog extends Component {
   };
 
   render() {
-    console.log(offspring);
     const pigList = offspring.map(pig => {
       return (
         <BabyHog
